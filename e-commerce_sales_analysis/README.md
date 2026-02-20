@@ -1,28 +1,28 @@
-# 📊 E-Commerce Data Analysis
+# 📊 E-Commerce Sales & Profit Analysis
 
-## 📌 Project Description
-This project performs exploratory data analysis (EDA) on an E-Commerce dataset using Python.  
-The objective is to analyze sales and profit patterns across time, product categories, customer segments, and regions.
-
----
-
-## 🎯 Analysis Questions
-1. You need to calculate the monthly sales of the store and identify which month had the highest sales and which month had the lowest sales.  
-2. You need to analyze sales based on product categories and determine which category has the lowest sales and which category has the highest sales.  
-3. The sales analysis needs to be done based on sub-categories.  
-4. You need to analyze the monthly profit from sales and determine which month had the highest profit.  
-5. Analyze the profit by category and sub-category.  
-6. Analyze the sales and profit by customer segment.  
-7. Analyze the sales to profit ratio based on segment.  
-8. Analyze the Year-over-Year (YoY) sales growth to determine whether the business is growing or declining compared to the previous year.  
-9. Are there fixed months every year where sales are consistently high or consistently low?  
-10. Which states are among the top 5 highest-profit states and the bottom 5 lowest-profit states?  
-11. Which cities consistently generate losses based on total profit?  
-12. Which of the top-selling products generate low or negative profit and therefore require re-pricing or cost optimization?
+## 📌 Project Overview
+This project analyzes an E-Commerce dataset to understand sales trends, profit performance, customer behavior, seasonality, and geographical impact.  
+The goal is to generate **business insights** that help improve pricing, profitability, and decision-making.
 
 ---
 
-## 🧰 Tools Used
+## 🎯 Business Questions Answered
+1. Monthly sales analysis and identification of highest & lowest sales months  
+2. Sales analysis by product category (highest & lowest)  
+3. Sales analysis by sub-category  
+4. Monthly profit analysis and most profitable month  
+5. Profit analysis by category and sub-category  
+6. Sales and profit analysis by customer segment  
+7. Sales-to-profit ratio by segment  
+8. Year-over-Year (YoY) sales growth analysis  
+9. Detection of consistently high or low sales months (seasonality)  
+10. Top 5 highest-profit states and bottom 5 lowest-profit states  
+11. Cities that consistently generate losses  
+12. High-sales but low-profit products requiring re-pricing or cost optimization  
+
+---
+
+## 🧰 Tools & Technologies Used
 - Python  
 - Pandas  
 - Matplotlib  
@@ -31,4 +31,41 @@ The objective is to analyze sales and profit patterns across time, product categ
 
 ---
 
-## 📂 Project Structure
+## 📂 Dataset Information
+- Dataset: E-Commerce Sales Dataset  
+- Records: ~10,000 orders  
+- Key Columns:
+  - Order Date, Category, Sub-Category
+  - Sales, Profit, Quantity, Discount
+  - Customer Segment, State, City
+
+*(Dataset is either included or linked due to GitHub size limits)*
+
+---
+
+## 🛠 Project Workflow
+1. Data loading and inspection  
+2. Data cleaning and feature engineering  
+3. Exploratory Data Analysis (EDA)  
+4. Sales and profit analysis  
+5. Time-series analysis (monthly & yearly)  
+6. Customer and regional analysis  
+7. Product-level profitability analysis  
+8. Visualization and insight generation  
+
+---
+
+## 📈 Key Insights
+- Technology category generates the highest sales and profit  
+- Furniture sub-category **Tables** causes significant losses  
+- Consumer segment contributes the highest revenue  
+- Certain states consistently outperform others in profitability  
+- Some top-selling products generate negative profit and need re-pricing  
+- Sales show seasonal patterns with recurring high and low months  
+
+---
+
+## ▶️ How to Run This Project
+1. Clone the repository  
+```bash
+git clone https://github.com/ShouravDebnath/ecommerce-data-analysis.git
