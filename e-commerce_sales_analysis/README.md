@@ -39,8 +39,6 @@ The goal is to generate **business insights** that help improve pricing, profita
   - Sales, Profit, Quantity, Discount
   - Customer Segment, State, City
 
-*(Dataset is either included or linked due to GitHub size limits)*
-
 ---
 
 ## 🛠 Project Workflow
