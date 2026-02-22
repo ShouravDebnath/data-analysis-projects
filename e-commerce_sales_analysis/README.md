@@ -66,4 +66,4 @@ The goal is to generate **business insights** that help improve pricing, profita
 ## ▶️ How to Run This Project
 1. Clone the repository  
 ```bash
-git clone https://github.com/ShouravDebnath/ecommerce-data-analysis.git
+git clone https://github.com/ShouravDebnath/e-commerce_sales_analysis.git

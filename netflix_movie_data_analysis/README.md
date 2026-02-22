@@ -106,7 +106,7 @@ and audience engagement.
 ## ▶️ How to Run This Project
 
 1.  Clone the repository git clone
-    https://github.com/ShouravDebnath/netflix-movie-analysis.git
+    https://github.com/ShouravDebnath/netflix_movie_data_analysis.git
 
 2.  Move into project folder cd netflix-movie-analysis
 

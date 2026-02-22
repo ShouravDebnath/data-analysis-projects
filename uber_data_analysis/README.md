@@ -105,7 +105,7 @@ Created Day-Night categories: - Morning - Afternoon - Evening - Night
 ## ▶️ How to Run This Project
 
 1.  Clone the repository git clone
-    https://github.com/ShouravDebnath/uber-data-analysis.git
+    https://github.com/ShouravDebnath/uber_data_analysis.git
 
 2.  Move into project folder cd uber-data-analysis
 
