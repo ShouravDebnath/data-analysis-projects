@@ -102,16 +102,3 @@ and audience engagement.
 -   Movie releases increased significantly in recent years.
 
 ------------------------------------------------------------------------
-
-## ▶️ How to Run This Project
-
-1.  Clone the repository git clone
-    https://github.com/ShouravDebnath/netflix_movie_data_analysis.git
-
-2.  Move into project folder cd netflix-movie-analysis
-
-3.  Install required libraries pip install -r requirements.txt
-
-4.  Run Jupyter Notebook jupyter notebook
-
-------------------------------------------------------------------------

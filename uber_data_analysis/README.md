@@ -100,17 +100,4 @@ Created Day-Night categories: - Morning - Afternoon - Evening - Night
     trips are short-distance rides.
 
 
-------------------------------------------------------------------------
-
-## ▶️ How to Run This Project
-
-1.  Clone the repository git clone
-    https://github.com/ShouravDebnath/uber_data_analysis.git
-
-2.  Move into project folder cd uber-data-analysis
-
-3.  Install required libraries pip install -r requirements.txt
-
-4.  Run Jupyter Notebook jupyter notebook
-
-------------------------------------------------------------------------
+-----------------------------------------------------------------------

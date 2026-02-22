@@ -62,8 +62,3 @@ The goal is to generate **business insights** that help improve pricing, profita
 - Sales show seasonal patterns with recurring high and low months  
 
 ---
-
-## ▶️ How to Run This Project
-1. Clone the repository  
-```bash
-git clone https://github.com/ShouravDebnath/e-commerce_sales_analysis.git
